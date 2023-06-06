@@ -1,0 +1,2 @@
+ __label__en This is an English text
+ __label__ka ಇದು ಒಂದು ಕನ್ನಡ ಪಠ್ಯ
